@@ -2,12 +2,12 @@
 
 one:
   email: one@test.org
-  password_hash: one_hash
+  password_digest: one_hash
   first_name: One
   last_name: One
 
 two:
   email: two@test.org
-  password_hash: two_hash
+  password_digest: two_hash
   first_name: Two
   last_name: Two
